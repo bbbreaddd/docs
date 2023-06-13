@@ -14,7 +14,7 @@ nav:
       - Recommended Programs: recommended/recommended-programs.md
       - Userscripts: recommended/recommended-userscripts.md
 
-    - Discord Server: https://discord.breadcloud.ga/
+    - Discord Server: https://discord.gg/tech-852086316950618133
 theme:
     name: 'material'
 #    logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Obsidian_software_logo.svg/1200px-Obsidian_software_logo.svg.png
@@ -152,5 +152,5 @@ extra:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.breadcloud.ga
+      link: https://discord.gg/tech-852086316950618133
       name: Tech Discord Server
