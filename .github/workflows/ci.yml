@@ -19,6 +19,6 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
+      - run: pip install mkdocs-roamlinks-plugin mkdocs-meta-descriptions-plugin mkdocs-git-revision-date-localized-plugin mkdocs-ezlinks-plugin mkdocs-awesome-pages-plugin mkdocs-embed-file-plugins mkdocs-custom-tags-attributes mkdocs-callouts mkdocs-glightbox mdx-breakless-lists obsidiantools
       # - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
