@@ -1,7 +1,3 @@
----
-quickshare-date: 2023-06-10 14:39:53
-quickshare-url: "https://noteshare.space/note/cliqissa6688601pjtf1yks5z#C8GsR/4q2Z/Quou3FaEFLGi9+aklFBKNvj3sTlxOZDg"
----
 # Reasons why Prebuilts suck
 ***
 # Control
