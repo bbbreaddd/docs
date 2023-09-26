@@ -15,6 +15,8 @@ nav:
     - Recommendations: 
       - Recommended Programs: recommended/recommended-programs.md
       - Userscripts: recommended/recommended-userscripts.md
+    - Support:
+      - The feature you are trying to use is on a network resource that is unavailable: support/vcerror-unavailable.md
 
     - Discord Server: https://discord.gg/tech-852086316950618133
 theme:
