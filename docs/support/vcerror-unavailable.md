@@ -1,9 +1,9 @@
 # Problem:
 The feature you are trying to use is on a network resource that is unavailable.
-![](attachments/Pasted%20image%2020230516201724.png)
+![](attachments/vc1.png)
 # Answer:
 https://answers.microsoft.com/en-us/windows/forum/all/cannot-install-microsoft-visual-c-2015-2022/b7eeba00-cae6-4900-87f4-fc404aae3961?page=2
-![](attachments/Pasted%20image%2020230516201253.png)
+![](attachments/vc2.png)
 1. Open regedit
 2. Go to `Computer\HKEY_CLASSES_ROOT\Installer\Products`
 3. Press `Ctrl+F` and search `Visual C`
